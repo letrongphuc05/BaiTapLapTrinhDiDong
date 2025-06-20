@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736879585052",
+    "project_id": "baitapvenha-61748",
+    "storage_bucket": "baitapvenha-61748.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736879585052:android:d19f1e9f209790ae40bcd9",
+        "android_client_info": {
+          "package_name": "com.example.baitapvenha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736879585052-5cb3kec93l9nst6d03d8cf9m21cnamsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baitapvenha",
+            "certificate_hash": "4db106e4b009e9f53b3d1bbfd24299722de83169"
+          }
+        },
+        {
+          "client_id": "736879585052-ck4icir3seld70gfm0fvmnoop7c1ikr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJRJkuSfL9Mua0tkHD5GqwaCzXXVOp-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736879585052-ck4icir3seld70gfm0fvmnoop7c1ikr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
